@@ -1,5 +1,2 @@
-# FizzBuzz
-# FizzBuzz
-# FizzBuzz
-# FizzBuzz
-# FizzBuzz
+# Simple FizzBuzz Game
+
